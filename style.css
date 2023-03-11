@@ -1,0 +1,63 @@
+.h{
+    color: white;
+    text-align: center;
+    word-spacing: 90px;
+    background-color: rgb(131, 3, 3);
+    height:55px;
+    vertical-align: middle;
+    margin: auto;
+    padding: 5px;
+}
+
+.h-2{
+    color: white;
+    height: 35vh;
+    background-image: url(../3/1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+.h-3{
+   
+    color:  rgb(131, 3, 3);
+    background-color: rosybrown;
+    background-size: cover;
+    height: 220px;
+    width: 200px;
+}    
+.o{
+    background-color: aqua;
+    width: 350px;
+}
+#oo{
+    background-color: blue;
+    width: 250px;
+}
+#ooo{
+    background-color: gray;
+    width: 210px;
+}
+#e{
+    color: red;
+}
+#ee{
+    color: blue;
+}
+#eee{
+    color: green;
+}
+#eeee{
+    color: orangered;
+}
+#eeeee{
+
+}
+.hhhh{
+    color: white;
+    text-align: center;
+   
+    background-color: rgb(131, 3, 3);
+
+    vertical-align: text-bottom;
+   
+}
